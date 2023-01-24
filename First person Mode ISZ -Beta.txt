@@ -1,0 +1,17 @@
+[++first Person made by Foxy#XTN++]
+
+[~#FF010D~first person invisibility fix]
+00482F58 FFFFFFFF
+
+[~#FF010D~first person beta hotkeys in note]
+00482F58 00000000
+D2000000 00000000
+0041958C 00FFFFFF
+D2000000 00000000
+00240F50 EE321A01
+00240F4C EE211A81
+D2000000 00000000
+DD000000 00000800
+00240F4C E3A005FE
+00240F50 EE010A10
+{~#FF010D~Y walk forward  left/right    idea byPeanut#XTN   activate the second cheat for invisibility fix}
