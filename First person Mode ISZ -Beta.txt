@@ -1,4 +1,3 @@
-[++first Person made by Foxy#XTN++]
 
 [~#FF010D~first person invisibility fix]
 00482F58 FFFFFFFF
